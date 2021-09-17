@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    max-width: 100%;
+    margin-top: 20px;
+}
+.top .greet{
+    width: 50%;
+    float: left;
+    padding: 30px;
+}
+.top .greet h4{
+    color:slategrey;
+}
+.top .greet h2, h1{
+    color: seagreen;
+}
+.top .greet span{
+    color: orangered;
+}
+.top .pic1{
+    width: 42%;
+    float: left;
+}
+
+.top .pic1 img{
+    max-width: 80%;
+}
+button{
+    padding: 10px;
+    border-radius: 10px;
+    width: 100px;
+    color: white;
+    text-shadow: 1px 1px violet;
+    background-color: tomato;
+    border-color: navajowhite;
+}
