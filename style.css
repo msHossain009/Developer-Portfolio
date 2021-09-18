@@ -110,7 +110,7 @@ section{
     padding: 5%;
     box-shadow: 10px 10px 40px grey;
     border-radius: 5px;
-    height: 60%;
+    height: 70%;
     margin-bottom: 3%;
 }
 .footer h2{
@@ -127,5 +127,5 @@ section{
     border-image-slice: 1;
 }
 .footer .xprnc p {
-    font-size: x-small;
+    font-size: small;
 }
