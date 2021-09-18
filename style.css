@@ -12,7 +12,7 @@ section{
     height: 380px;
 }
 .top{
-    background-image: url("/Images/top-banner.png");
+    background-image: url("./Images/top-banner.png");
     background-repeat: no-repeat;
     padding: 40px;
 }
@@ -74,7 +74,7 @@ section{
 }
 .middle{
     padding: 40px;
-    background-image: url(/Images/dream-bg.png);
+    background-image: url(./Images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -96,7 +96,7 @@ section{
     color: seagreen;
 }
 .footer{
-    background-image: url(/Images/exp-bg.png);
+    background-image: url(./Images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
